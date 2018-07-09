@@ -1,4 +1,5 @@
 <!--index.wxml-->
+<view></view>
 <view class="container">  
   <view class="top">
     <view>城市：{{weatherData.city}}</view>
